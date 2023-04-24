@@ -1,0 +1,25 @@
+{
+  "name": "hyper-hardhacker",
+  "version": "0.1.0",
+  "description": "🧑🏾‍🚀 HardHacker Theme for Hyper 🌈",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hardhackerlabs/theme-hyper.git"
+  },
+  "keywords": [
+    "Hardhacker",
+    "theme",
+    "hyper",
+    "hardhackerlabs"
+  ],
+  "author": "Xin Wu",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hardhackerlabs/theme-hyper/issues"
+  },
+  "homepage": "https://github.com/hardhackerlabs/theme-hyper#readme"
+}
